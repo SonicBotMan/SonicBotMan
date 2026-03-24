@@ -19,16 +19,3 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SonicBotMan's streak" src="https://streak-stats.demolab.com/?user=SonicBotMan&theme=onedark&hide_border=true"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SonicBotMan&theme=apprentice">
-  </a>
-</p>
-
-<a href="https://github.com/SonicBotMan#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=SonicBotMan&repo=SonicBotMan&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/SonicBotMan#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=SonicBotMan&repo=SonicBotMan&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
