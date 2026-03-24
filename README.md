@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/SonicBotMan?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SonicBotMan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://npmjs.com/~SonicBotMan"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
-</p>
-
 ## 📊 Github stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
