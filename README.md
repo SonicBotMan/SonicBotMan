@@ -7,3 +7,8 @@
     <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/SonicBotMan/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
   <a href="https://npmjs.com/~SonicBotMan"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 </p>
+<p align="center">
+<a href="https://discord.com/users/1471909767109677208">
+<img title="Discord Presence" src="https://discord-readme-badge.zohan.tech/api?id=1471909767109677208">
+</a>
+</p>
