@@ -2,7 +2,25 @@
 
 **AI Agent Architect & Systems Engineer** — Building the infrastructure for AI-native workflows.
 
-专注于 AI Agent 记忆系统、跨平台部署与企业级 AI 解决方案。
+---
+
+## 👤 个人简介 / About Me
+
+**中文：**
+
+我是北京某传统头部互联网公司的资深产品经理，拥有多年互联网产品经验。
+
+长期以来，我专注于 AI Agent 系统的工程化实践，致力于将 AI 能力真正落地到产品中。从 AI 记忆系统的设计、跨平台部署工具的开发，到多 Agent 协作框架的搭建，我的开源项目始终围绕一个核心目标：**让 AI 工作得像人类一样流畅。**
+
+作为一名从产品视角切入工程建设的实践者，我更关注技术背后的用户价值与系统可靠性，而非单纯的技术炫技。
+
+**English：**
+
+Senior Product Manager at a leading traditional internet company in Beijing, with years of experience building internet products.
+
+I focus on the engineering practice of AI Agent systems, committed to bringing AI capabilities into real products. From designing AI memory systems and cross-platform deployment tools to building multi-Agent collaboration frameworks, my open-source work centers on one goal: **making AI work as smoothly as humans do.**
+
+As a practitioner who approaches engineering from a product perspective, I care more about the user value and system reliability behind the technology, rather than showing off technical prowess.
 
 ---
 
