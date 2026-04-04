@@ -4,15 +4,7 @@
 
 ---
 
-## 👤 个人简介 / About Me
-
-**中文：**
-
-SonicBotMan 是北京某传统头部互联网公司的资深产品经理，长期关注 AI Agent 系统的工程化实践。
-
-他主导的开源项目围绕一个核心命题：**如何让 AI 工作得像人类一样流畅。** 围绕这一命题，他构建了从记忆系统（lobster-press）到跨平台部署（openclaw-portable）再到多 Agent 协作（SoloFlow）的完整工具链。在产品思维驱动下，他的技术选型始终围绕用户价值与系统可靠性展开，而非单纯追逐技术新奇。
-
-**English：**
+## About Me
 
 SonicBotMan is a Senior Product Manager at a leading traditional internet company in Beijing, with a long-term focus on the engineering practice of AI Agent systems.
 
