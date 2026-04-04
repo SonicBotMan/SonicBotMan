@@ -8,7 +8,7 @@
 
 SonicBotMan is a Senior Product Manager at a leading traditional internet company in Beijing, with a long-term focus on the engineering practice of AI Agent systems.
 
-His open-source work centers on one命题: **how to make AI work as smoothly as humans do.** Around this core idea, he has built a complete toolchain — from memory systems (lobster-press) to cross-platform deployment (openclaw-portable) to multi-Agent collaboration (SoloFlow). Driven by product thinking, his technology choices always revolve around user value and system reliability, rather than chasing novelty for its own sake.
+His open-source work centers on one: **how to make AI work as smoothly as humans do.** Around this core idea, he has built a complete toolchain — from memory systems (lobster-press) to cross-platform deployment (openclaw-portable) to multi-Agent collaboration (SoloFlow). Driven by product thinking, his technology choices always revolve around user value and system reliability, rather than chasing novelty for its own sake.
 
 ---
 
