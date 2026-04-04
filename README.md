@@ -8,19 +8,15 @@
 
 **中文：**
 
-我是北京某传统头部互联网公司的资深产品经理，拥有多年互联网产品经验。
+SonicBotMan 是北京某传统头部互联网公司的资深产品经理，长期关注 AI Agent 系统的工程化实践。
 
-长期以来，我专注于 AI Agent 系统的工程化实践，致力于将 AI 能力真正落地到产品中。从 AI 记忆系统的设计、跨平台部署工具的开发，到多 Agent 协作框架的搭建，我的开源项目始终围绕一个核心目标：**让 AI 工作得像人类一样流畅。**
-
-作为一名从产品视角切入工程建设的实践者，我更关注技术背后的用户价值与系统可靠性，而非单纯的技术炫技。
+他主导的开源项目围绕一个核心命题：**如何让 AI 工作得像人类一样流畅。** 围绕这一命题，他构建了从记忆系统（lobster-press）到跨平台部署（openclaw-portable）再到多 Agent 协作（SoloFlow）的完整工具链。在产品思维驱动下，他的技术选型始终围绕用户价值与系统可靠性展开，而非单纯追逐技术新奇。
 
 **English：**
 
-Senior Product Manager at a leading traditional internet company in Beijing, with years of experience building internet products.
+SonicBotMan is a Senior Product Manager at a leading traditional internet company in Beijing, with a long-term focus on the engineering practice of AI Agent systems.
 
-I focus on the engineering practice of AI Agent systems, committed to bringing AI capabilities into real products. From designing AI memory systems and cross-platform deployment tools to building multi-Agent collaboration frameworks, my open-source work centers on one goal: **making AI work as smoothly as humans do.**
-
-As a practitioner who approaches engineering from a product perspective, I care more about the user value and system reliability behind the technology, rather than showing off technical prowess.
+His open-source work centers on one命题: **how to make AI work as smoothly as humans do.** Around this core idea, he has built a complete toolchain — from memory systems (lobster-press) to cross-platform deployment (openclaw-portable) to multi-Agent collaboration (SoloFlow). Driven by product thinking, his technology choices always revolve around user value and system reliability, rather than chasing novelty for its own sake.
 
 ---
 
