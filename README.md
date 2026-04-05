@@ -1,108 +1,140 @@
 # SonicBotMan
 
-**AI Agent Architect & Systems Engineer** — Building the infrastructure for AI-native workflows.
+> Building the future of AI-native workflows — one agent at a time.
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=SonicBotMan&theme=tokyonight&show_icons=true&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=SonicBotMan&theme=tokyonight&hide_border=true)
 
 ---
 
-## About Me
+## ⚡ Flagship Project
 
-SonicBotMan is a Senior Product Manager at a leading traditional internet company in Beijing, with a long-term focus on the engineering practice of AI Agent systems.
+### [SoloFlow](https://github.com/SonicBotMan/SoloFlow) ⭐ 5
+> OpenClaw 工作流编排插件 —— 将复杂多步骤 AI 任务转化为结构化、可观测、可重试的工作流。
 
-His open-source work centers on one: **how to make AI work as smoothly as humans do.** Around this core idea, he has built a complete toolchain — from memory systems (lobster-press) to cross-platform deployment (openclaw-portable) to multi-Agent collaboration (SoloFlow). Driven by product thinking, his technology choices always revolve around user value and system reliability, rather than chasing novelty for its own sake.
+**OpenClaw 的工作流编排大脑。** 用户描述需求，系统自动完成剩余工作。
 
----
+- 🧠 认知记忆系统（三层记忆 + 遗忘曲线）
+- 🎯 Discipline-Aware 路由（quick/deep/visual/ultrabrain）
+- ⚙️ DAG + FSM 混合架构
+- 📦 Skill 自动进化
+- 175 tests passing | TypeScript strict | Bun runtime
 
-## 🎯 核心专长
-
-### AI Agent Memory Systems
-**lobster-press** (28⭐) — 基于认知科学的 LLM 永久记忆引擎
-
-解决大模型上下文窗口限制的核心问题。通过 DAG 无损压缩 + 遗忘曲线 + 语义记忆，让 AI Agent 拥有人类般的记忆系统：
-- 100% 原始信息可追溯
-- 动态遗忘：关键决策永久保留，闲聊自动衰减
-- 支持 8 个主流 LLM 提供商（OpenAI / Anthropic / DeepSeek / 智谱 GLM / 百度文心 / 阿里通义 / Google / Mistral）
-- [GitHub](https://github.com/SonicBotMan/lobster-press) | [xagent.icu](https://xagent.icu)
-
-### Cross-Platform AI Deployment
-**openclaw-portable** (35⭐) — 即插即用的便携式 AI 助手
-
-重新定义 AI 助手的获取方式。首款真正离线运行的 AI 助手，插上 USB 即可在 Windows/Linux/Mac 上使用：
-- 内置 Qwen2.5-1.5B 模型，零 API 成本
-- 60 秒完成初始化，零配置
-- 企业安全：零痕迹离开，完美适配受限网络（国内可直接使用）
-- [GitHub](https://github.com/SonicBotMan/openclaw-portable)
-
-### Multi-Agent Orchestration
-**SoloFlow** (ai-one-person-company, 5⭐) — AI 驱动的一人公司框架
-
-用 AI Agent 自动完成短视频创作全流程。多 Agent 并行协作：
-- FlowEngine 调度引擎：Assistant → Scriptwriter → Visual → Editor → Publisher
-- FSM 状态机 + ContextBus + 偏好记忆（贝叶斯置信度 + 时间衰减）
-- 支持 LLM / MCP / OpenClaw / Skill 四种驱动
-- [GitHub](https://github.com/SonicBotMan/ai-one-person-company)
+```bash
+cd openclaw-plugin && bun install && bun run build
+```
 
 ---
 
-## 🏗️ OpenClaw 生态系统
+## 🧠 Cognitive Memory (龙虾饼系列)
 
-围绕 OpenClaw AI Agent 框架构建的完整工具链：
+### [lobster-press](https://github.com/SonicBotMan/lobster-press) ⭐ 28
+> 🦞 LobsterPress — Cognitive Memory System for AI Agents
 
-| 项目 | 说明 | 语言 |
-|------|------|------|
-| [openclaw-portable](https://github.com/SonicBotMan/openclaw-portable) | 便携式部署，跨平台即插即用 | Shell |
-| [openclaw-toolbox](https://github.com/SonicBotMan/openclaw-toolbox) | 监控、告警、备份一站式 | Shell |
-| [openclaw-performance-optimizer](https://github.com/SonicBotMan/openclaw-performance-optimizer) | 旅行模式、QMD缓存、智能路由 | Python |
-| [openclaw-research-toolkit](https://github.com/SonicBotMan/openclaw-research-toolkit) | 赋予 AI Agent 真正的研究能力 | Shell |
-| [smart-search-fusion](https://github.com/SonicBotMan/smart-search-fusion) | 多源并行搜索解决方案 | Shell |
-| [clawicu](https://github.com/SonicBotMan/clawicu) | 应急救援系统 — 17项诊断 + 12个修复模块 | Shell |
+基于认知科学的 LLM 永久记忆引擎。四级架构（Core Intelligence / Skill Evolution / Multi-Agent / Engineering），赋予 AI Agent 真正的持久记忆能力。
 
----
+- 三层记忆：语义 / 情景 / 工作
+- 遗忘曲线：`R(t) = base × e^(-t/stability)`
+- MemOS 4-Phase 架构
 
-## 🎨 AI 应用产品
+### [mentor-skill](https://github.com/SonicBotMan/mentor-skill) ⭐ 0 — NEW
+> 把你的导师蒸馏成 AI Skill
 
-### 数字人产品 — digital-human-ai
-基于多模态 AI 的数字人系统，支持：
-- 人脸识别（InsightFace ArcFace，LFW 99.77% 精度）
-- 知识图谱可视化（React Flow + D3）
-- Qdrant 向量数据库，语义检索历史对话
-- 支持 GLM / MiniMax / OpenAI 多模型切换
-
-### AI 图像工具
-- [siliconflow-image](https://github.com/SonicBotMan/siliconflow-image) — SiliconFlow API 文生图/图生图
-- [image-prompt-optimizer](https://github.com/SonicBotMan/image-prompt-optimizer) — AI 图像生成提示词优化
-
-### AI 搜索与阅读
-- [unified-search](https://github.com/SonicBotMan/unified-search) — 多引擎统一搜索
-- [deepreader](https://github.com/SonicBotMan/deepreader) — AI 驱动的深度网页内容阅读器
-- [media-downloader](https://github.com/SonicBotMan/media-downloader) — 网页媒体一键下载至 WebDAV
+把导师的思维方式、反馈风格、知识体系全部保留。导师可以走，但她的判断力可以留下。
 
 ---
 
-## 🧬 AI Agent 进化系统
+## 🔌 OpenClaw Ecosystem
 
-[auto-evolution-system](https://github.com/SonicBotMan/auto-evolution-system) — AI Agent 100 轮自主进化系统
+OpenClaw 是一个模块化的 AI Agent 框架，提供了诊断、修复、优化、研究等完整工具链。
+
+### Core
+| Project | Description | ⭐ |
+|---------|-------------|---|
+| [openclaw-portable](https://github.com/SonicBotMan/openclaw-portable) | 🔌 便携式 OpenClaw，跨平台即插即用 | 35 |
+| [openclaw-windows-installer](https://github.com/SonicBotMan/openclaw-windows-installer) | 🖥️ Windows 一键安装器 | — |
+
+### Operations & Diagnostics
+| Project | Description | ⭐ |
+|---------|-------------|---|
+| [clawicu](https://github.com/SonicBotMan/clawicu) | 🏥 应急救援系统 — 17项诊断 + 12个修复模块 | 16 |
+| [openclaw-toolbox](https://github.com/SonicBotMan/openclaw-toolbox) | 🧰 运维工具箱 - 监控、告警、备份 | 1 |
+| [openclaw-performance-optimizer](https://github.com/SonicBotMan/openclaw-performance-optimizer) | 🚀 性能优化 - 旅行模式、QMD缓存、智能路由 | — |
+| [openclaw-research-toolkit](https://github.com/SonicBotMan/openclaw-research-toolkit) | 📖 赋予 AI Agent 真正的研究能力 | — |
+
+### Search & Integration
+| Project | Description |
+|---------|-------------|
+| [smart-search-fusion](https://github.com/SonicBotMan/smart-search-fusion) | 🔍 多源并行搜索解决方案 |
+| [deepreader](https://github.com/SonicBotMan/deepreader) | AI-powered 深网内容读取器 |
+| [unified-search](https://github.com/SonicBotMan/unified-search) | 多引擎统一搜索工具 |
+
+---
+
+## 🧬 AI Agent Evolution
+
+### [auto-evolution-system](https://github.com/SonicBotMan/auto-evolution-system) ⭐ 0
+> AI Agent 100轮自主进化系统
 
 自动安装 Top 20 高价值 Skills，驱动 AI Agent 持续自我进化。
 
----
+### [AI-Digital-Human](https://github.com/SonicBotMan/AI-Digital-Human) ⭐ 0
+> Unify your knowledge into an intelligent graph
 
-## 📊 技术栈
-
-**Languages:** Python · TypeScript · Shell · HTML
-
-**AI/ML:** LLMs (OpenAI/Anthropic/DeepSeek/GLM) · Computer Vision (InsightFace) · Vector DB (Qdrant) · Knowledge Graphs
-
-**Frameworks:** FastAPI · Next.js · React Flow · SQLite · PostgreSQL · Redis
-
-**Infrastructure:** Docker · OpenClaw · MCP Protocol
+将知识统一成智能图谱，支持与数据对话、可视化关系、部署真正理解领域的 AI Persona。
 
 ---
 
-## 📫 连接
+## 🛠️ AI Tools
 
-- **GitHub:** [github.com/SonicBotMan](https://github.com/SonicBotMan)
-- **Website:** [xagent.icu](https://xagent.icu)
+| Project | Description | Lang |
+|---------|-------------|------|
+| [ai-benchmark](https://github.com/SonicBotMan/ai-benchmark) | AI Model Benchmarking Framework | TypeScript |
+| [media-downloader](https://github.com/SonicBotMan/media-downloader) | Web → WebDAV 图片/视频下载 | Python |
+| [siliconflow-image](https://github.com/SonicBotMan/siliconflow-image) | SiliconFlow API 文生图/图生图 | Python |
+| [image-prompt-optimizer](https://github.com/SonicBotMan/image-prompt-optimizer) | AI 图像生成提示词优化 | — |
 
 ---
 
-*让 AI 工作得像人类一样流畅。*
+## 📚 Documentation
+
+| Project | Description |
+|---------|-------------|
+| [ai-agent-whitepaper](https://github.com/SonicBotMan/ai-agent-whitepaper) | 📖 AI Agent 深度定制架构设计白皮书 |
+| [github-development-standard](https://github.com/SonicBotMan/github-development-standard) | 完整的 GitHub 项目开发标准流程 |
+
+---
+
+## 🔱 Forked Projects
+
+| Project | Description | Lang |
+|---------|-------------|------|
+| [cloud-code](https://github.com/SonicBotMan/cloud-code) | Cloud IDE integration | TypeScript |
+| [FLJopen](https://github.com/SonicBotMan/FLJopen) | Twitter/X 账号验证平台 | TypeScript |
+| [zentinel](https://github.com/SonicBotMan/zentinel) | Security-first reverse proxy | Rust |
+| [aegis-governance](https://github.com/SonicBotMan/aegis-governance) | AI 系统架构治理框架 | Python |
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonicBotMan&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+## 🏆 Achievements
+
+- Pull Shark x2
+- Quickdraw
+- Starstruck
+
+---
+
+## 🤝 Connect
+
+- **GitHub**: [github.com/SonicBotMan](https://github.com/SonicBotMan)
+- **Website**: [xagent.icu](https://xagent.icu)
+
+---
+
+*Built with 🔥 and a lot of coffee.*
