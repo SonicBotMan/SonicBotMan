@@ -2,7 +2,6 @@
 
 > Building the future of AI-native workflows — one agent at a time.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SonicBotMan&color=blue&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SonicBotMan?label=Total+Stars&style=flat-square)
 
 ---
@@ -111,7 +110,8 @@ OpenClaw 是一个模块化的 AI Agent 框架，提供诊断、修复、优化�
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://img.shields.io/github/languages/top/SonicBotMan?style=flat-square)
+![Repos](https://img.shields.io/badge/Repos-27-blue?style=flat-square)
+![Followers](https://img.shields.io/badge/Followers-2-blue?style=flat-square)
 
 ---
 
