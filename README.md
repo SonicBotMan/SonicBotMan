@@ -4,11 +4,6 @@
 
 ---
 
-<!-- contribution-graph -->
-<img align="center" src="https://github-contributions-api.jogruber.de/v4/SonicBotMan" width="100%" />
-
----
-
 ### 🔍 About Me
 
 白天穿梭于需求评审和产品原型之间，深夜埋首于 TypeScript 和 Shell 脚本之中。
