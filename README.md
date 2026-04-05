@@ -2,8 +2,8 @@
 
 > Building the future of AI-native workflows — one agent at a time.
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=SonicBotMan&theme=tokyonight&show_icons=true&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=SonicBotMan&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=SonicBotMan&color=blue&style=flat-square)
+![Stars](https://img.shields.io/github/stars/SonicBotMan?label=Total+Stars&style=flat-square)
 
 ---
 
@@ -111,7 +111,7 @@ OpenClaw 是一个模块化的 AI Agent 框架，提供诊断、修复、优化�
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonicBotMan&theme=tokyonight&layout=compact&hide_border=true)
+![Top Langs](https://img.shields.io/github/languages/top/SonicBotMan?style=flat-square)
 
 ---
 
