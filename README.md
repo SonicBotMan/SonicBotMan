@@ -40,7 +40,6 @@ Shell 驱动的便携式 AI Agent 运行环境，Windows / Linux / Mac 统一体
 - **20** 个独立诊断模块（配置 JSON5、网关 `/healthz`、插件与 SDK、凭据、守护进程、版本不一致、`plugins.allow`、频道策略等）
 - **6** 个阶段：Bootstrap → 带超时的 `openclaw doctor` → 检查合并分诊 → **可交互**处置菜单（支持 `curl | sh`）→ 修复与验证  
 - **25** 篇线上故障指南 + Next.js 静态站、SEO、**SOS 分享页**（[xagent.icu/sos](https://xagent.icu/sos)）  
-- 一键：`curl -fsSL https://xagent.icu/r | sh`
 
 ### [SoloFlow](https://github.com/SonicBotMan/SoloFlow) · ⚡
 > OpenClaw 工作流编排插件
