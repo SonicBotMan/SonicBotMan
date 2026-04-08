@@ -102,7 +102,7 @@ Shell 驱动的便携式 AI Agent 运行环境，Windows / Linux / Mac 统一体
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect。
 
 <p align="left">
   <a href="https://github.com/SonicBotMan" target="_blank"><img src="https://img.shields.io/badge/GitHub-SonicBotMan?style=for-the-badge&logo=github" alt="GitHub" /></a>
