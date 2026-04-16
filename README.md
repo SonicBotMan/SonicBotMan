@@ -105,7 +105,7 @@ Shell 驱动的便携式 AI Agent 运行环境，Windows / Linux / Mac 统一体
 
 <p align="left">
   <a href="https://github.com/SonicBotMan" target="_blank"><img src="https://img.shields.io/badge/GitHub-SonicBotMan?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://xagent.icu" target="_blank"><img src="https://img.shields.io/badge/Site-xagent.icu-ff4d4d?style=for-the-badge" alt="xagent.icu" /></a>
+  <a href="https://soloflow.pmparker.net" target="_blank"><img src="https://img.shields.io/badge/Site-soloflow.pmparker.net-ff4d4d?style=for-the-badge" alt="soloflow.pmparker.net" /></a>
 </p>
 
 ---
