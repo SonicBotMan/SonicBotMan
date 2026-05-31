@@ -1,6 +1,4 @@
-# 👋 Hi, I'm SonicBotMan
-
-### 北京互联网产品经理 × AI 独立开发者
+# 👋 Hi, I'm Orion
 
 ---
 
@@ -8,11 +6,9 @@
 
 **Product Manager. Open Source Engineer. AI Workflow Architect.**
 
-By day, I navigate the chaos of Beijing's internet industry—writing specs, aligning stakeholders, and shipping products at speed. By night, I build the AI infrastructure I wish existed: opinionated, production-ready, and designed to actually work.
-
 What separates a compelling AI demo from a reliable AI product is an unsexy layer of engineering discipline—workflow orchestration, memory systems, skill evolution, and deterministic state machines. That's exactly what I build. My projects aren't experiments; they're the second product line I couldn't find on the market.
 
-- **90+ stars** across public repositories (and climbing)
+- across public repositories (and climbing)
 - Creator of **[openclaw-portable](https://github.com/SonicBotMan/openclaw-portable)** — cross-platform OpenClaw runtime you can drop on Windows / Linux / macOS
 - Creator of **[lobster-press](https://github.com/SonicBotMan/lobster-press)** — cognitive memory engine for LLM agents
 - Creator of **[ClawICU](https://github.com/SonicBotMan/clawicu)** — **OpenClaw emergency rescue**: 6-phase protocol, 20 diagnostic checks, auto-repair with backups; site + docs at **[xagent.icu](https://xagent.icu)**
