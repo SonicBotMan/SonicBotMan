@@ -49,10 +49,6 @@ Shell 驱动的便携式 AI Agent 运行环境，Windows / Linux / Mac 统一体
 | Project | Description | Lang |
 |---------|-------------|------|
 | [**clawicu**](https://github.com/SonicBotMan/clawicu) | 🏥 **应急救援** — 6 阶段 · 20 诊断 · 25 指南 · [xagent.icu](https://xagent.icu) · 一键安装脚本 | Shell |
-| [openclaw-toolbox](https://github.com/SonicBotMan/openclaw-toolbox) | 🧰 运维工具箱 — 监控 / 告警 / 备份 | Shell |
-| [openclaw-performance-optimizer](https://github.com/SonicBotMan/openclaw-performance-optimizer) | 🚀 性能优化 — 旅行模式 / QMD 缓存 / 智能路由 | Python |
-| [openclaw-research-toolkit](https://github.com/SonicBotMan/openclaw-research-toolkit) | 📖 AI Agent 研究能力套件 | Shell |
-| [smart-search-fusion](https://github.com/SonicBotMan/smart-search-fusion) | 🔍 多源并行搜索 | Shell |
 | [openclaw-windows-installer](https://github.com/SonicBotMan/openclaw-windows-installer) | 🖥️ Windows 一键安装器 | HTML |
 
 ---
@@ -62,28 +58,7 @@ Shell 驱动的便携式 AI Agent 运行环境，Windows / Linux / Mac 统一体
 | Project | Description | Lang |
 |---------|-------------|------|
 | [ai-benchmark](https://github.com/SonicBotMan/ai-benchmark) | AI Model Benchmarking Framework | TypeScript |
-| [deepreader](https://github.com/SonicBotMan/deepreader) | AI-powered 深网内容读取器 | Python |
-| [media-downloader](https://github.com/SonicBotMan/media-downloader) | Web → WebDAV 媒体下载 | Python |
-| [unified-search](https://github.com/SonicBotMan/unified-search) | 多引擎统一搜索工具 | Python |
 
----
-
-## 🧬 AI Agent Evolution
-
-| Project | Description |
-|---------|-------------|
-| [auto-evolution-system](https://github.com/SonicBotMan/auto-evolution-system) | AI Agent 100 轮自主进化系统 |
-| [AI-Digital-Human](https://github.com/SonicBotMan/AI-Digital-Human) | 知识图谱 + AI Persona 部署平台 |
-| [mentor-skill](https://github.com/SonicBotMan/mentor-skill) | 把导师蒸馏成 AI Skill |
-
----
-
-## 📚 Documentation
-
-| Project | Description |
-|---------|-------------|
-| [ai-agent-whitepaper](https://github.com/SonicBotMan/ai-agent-whitepaper) | AI Agent 深度定制架构设计白皮书 |
-| [github-development-standard](https://github.com/SonicBotMan/github-development-standard) | GitHub 项目开发标准流程 |
 
 ---
 
