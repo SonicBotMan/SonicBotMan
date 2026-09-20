@@ -140,7 +140,7 @@
   <a href="https://pmparker.net/"><img src="https://img.shields.io/badge/Blog-pmparker.net-3FD97F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Blog"/></a>
   <a href="https://wen.pmparker.net/"><img src="https://img.shields.io/badge/观澜-GUANLAN-2563EB?style=for-the-badge" alt="观澜"/></a>
   <a href="https://xagent.icu/"><img src="https://img.shields.io/badge/ClawICU-xagent.icu-FF4D4D?style=for-the-badge" alt="xagent.icu"/></a>
-  <a href="mailto:523034406@qq.com"><img src="https://img.shields.io/badge/Email-523034406@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:yunjiemi@agent.qq.com"><img src="https://img.shields.io/badge/Email-yunjiemi@agent.qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
